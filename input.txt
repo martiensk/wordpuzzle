@@ -1,0 +1,10 @@
+BUNDY|apple, banana, cherry, grape, mango, orange, peach, pear, plum, watermelon
+car, bicycle, motorcycle, truck, bus, train, airplane, helicopter, scooter, boat
+table, chair, sofa, bed, dresser, bookshelf, desk, cabinet, stool, bench
+red, blue, green, yellow, orange, purple, pink, brown, black, white
+cat, dog, rabbit, hamster, parrot, turtle, fish, lizard, snake, horse
+mountain, river, ocean, forest, desert, island, lake, valley, waterfall, cave
+happy, sad, angry, excited, nervous, calm, frustrated, bored, curious, confident
+hammer, screwdriver, wrench, saw, drill, pliers, chisel, tape measure, level, axe
+Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, weekend, holiday, vacation
+computer, smartphone, tablet, keyboard, mouse, printer, monitor, laptop, charger, router
